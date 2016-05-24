@@ -3,19 +3,9 @@
 
 Observables, change detection, AsyncPipe, forms, RxJS
 
-===
-
-Hiring:
-- Dish - Java, JavaScript (Angular, React) - William Johnson
-- homebuy @ Galvanize
-
-Authorization with JWTs and Macaroons
-
-===
-
-Fundamentals
-Related concepts
-Angular 2
+[Fundamentals](#fundamentals)
+[Related concepts](#related-concepts)
+[Angular 2](#angular-2)
 
 ## Fundamentals
 
