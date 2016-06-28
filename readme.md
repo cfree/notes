@@ -1,3 +1,5 @@
 # Miscellaneous Notes
 
-* [Meetups](Meetups/)
+* [Conferences](conferences/)
+* [Meetups](meetups/)
+* [WordCamp](wordcamp/)
